@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spotify</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="screen_loading">Screen is loading...</string>
+    <string name="album_info">%1$s • %2$s</string>
+    <string name="screen_error">Failed to load. Tap to retry.</string>
+</resources>
